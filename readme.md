@@ -1,3 +1,4 @@
+![image](https://github.com/xdocimo/checker-multas-cordoba/assets/34216821/f63229aa-21cb-4b01-a22a-0467e1f97b2e)
 Este script emula una request de un usuario convencional (Selenium) en el portal tributario de la municipalidad de Córdoba a la hora de consultar la deuda registrada de una patente
 La idea seria que lo cronees y puedas tener información constante al respecto de tu vehículo. ¡Podes ahorrar $ si pagas a tiempo! Que no te sorprenda esa multa.
 Soporta multithreading así que no será mayor complicación consultar muchas patentes a la vez (establecelas dentro del propio código, en la parte donde dice PATENTES)
